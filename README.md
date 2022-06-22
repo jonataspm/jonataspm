@@ -32,9 +32,9 @@
 </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-<div style="display: inline_block" align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonataspm&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jonataspm"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataspm&show_icons=true&locale=en&theme=dracula" alt="jonataspm" /> 
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonataspm&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jonataspm"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jonataspm&show_icons=true&locale=en&theme=dracula" alt="jonataspm" /> 
 </div>
 
 
