@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonataspm&label=Profile%20views&color=0e75b6&style=flat" alt="jonataspm" /> </p>
 
 - 🔭 I’m currently working on [Fitbank](https://fitbank.com.br/)
-- 🌱 I’m currently learning **React, Mongo and Docker**
+- 🌱 I’m currently learning **Angular, Mongo and Docker**
 - 💬 Ask me about **C# .Net, SQL server**
 - 📫 How to reach me **jonataspmpm@gmail.com**
 
